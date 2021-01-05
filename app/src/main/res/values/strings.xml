@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Amicable Logistic</string>
+    <string name="error_msg">OOPS! you currently do not have access to the requested content</string>
+</resources>
